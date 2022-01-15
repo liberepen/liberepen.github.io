@@ -23,7 +23,7 @@ twitter_username: moh_rajabi05
 github_username: username
 minimal_mistakes_skin: default
 search: true
-locale: "fa-IR"
+site.locale: "fa-IR"
 lang: fa
 dir: rtl
 direction: rtl

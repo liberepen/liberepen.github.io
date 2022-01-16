@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: قلم آزاد
+title: Libere pen
 email: rajabi@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -23,10 +23,7 @@ twitter_username: moh_rajabi05
 github_username: username
 minimal_mistakes_skin: default
 search: true
-locale: "fa-IR"
-lang: fa
-dir: rtl
-direction: rtl
+locale: "en-EN"
 
 
 # Build settings

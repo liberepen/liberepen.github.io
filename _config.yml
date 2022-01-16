@@ -25,6 +25,11 @@ minimal_mistakes_skin: "dirt"
 search: true
 locale: "en-EN"
 
+#comments
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "libere-pen.disqus.com"
 
 # Build settings
 markdown: kramdown

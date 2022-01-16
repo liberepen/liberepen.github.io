@@ -59,22 +59,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Muhammad Rajabi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "a blogger, Linux user, free software lover, Socialist and also a Podcaster."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: ""
+      url: "mailto:rajabi@tutanota.com"
+    - label: "Mastodon"
+      icon: ""
+      url: "https://mas.to/@Mh05"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: ""
+      url: "https://github.com/mohrajabi05"
 
 footer:
   links:

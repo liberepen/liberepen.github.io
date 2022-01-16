@@ -29,7 +29,7 @@ locale: "en-EN"
 comments:
   provider: "disqus"
   disqus:
-    shortname: "libere-pen.disqus.com"
+    shortname: "libere-pen"
 
 # Build settings
 markdown: kramdown

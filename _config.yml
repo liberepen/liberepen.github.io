@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "Muhammad Rajabi"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/lion.png"
   bio    : "a blogger, Linux user, free software lover, Socialist and also a Podcaster."
   links:
     - label: "Email"

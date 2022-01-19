@@ -66,14 +66,14 @@ plugins:
 author:
   name   : "Muhammad Rajabi"
   avatar : "/assets/images/lion.png"
-  bio    : "a blogger, Linux user, free software lover, Socialist and also a Podcaster."
+  bio    : "a blogger, Linux user, free software lover and Socialist"
   links:
     - label: "Email"
       icon: ""
       url: "mailto:rajabi@tutanota.com"
     - label: "Mastodon"
       icon: ""
-      url: "https://mas.to/@Mh05"
+      url: "https://mas.to/@rajabi"
     - label: "GitHub"
       icon: ""
       url: "https://github.com/mohrajabi05"

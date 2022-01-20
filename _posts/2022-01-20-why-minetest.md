@@ -23,7 +23,20 @@ You can make your favorite House, upgrade your tools and survive. you can make y
 
 Minetest is very Lightweight. It's just about 30 or 40 MG! i was a Minecraft player in the past but when i met Minetest, i left Minecraft. 
 Minetest have many online and free servers! so you can easily play Minetest with your friends.
+<h2>How to install</h2>
+Install minetest is easy. If you have a debian base distro or debian:
 
+```
+sudo apt-get update
+sudo apt-get install minetest
+```
+Arch bases:
+
+```
+sudo pacman -S minetest
+```
+
+And for other operating systems you can check [this page](https://www.minetest.net/downloads/).
 <h3>Play with me</h3> 
 Sometimes i play Minetest in [Pandorabox server](https://pandorabox.io/index.php/Main_Page). You can create a new account in this server and play. this server have a very good document for biggners.
 if you want to play with me in this server you can email me and coordinate with me. It's [my email](mailto:rajabi@tutanota.com).

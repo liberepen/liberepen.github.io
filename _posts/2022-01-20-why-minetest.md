@@ -8,7 +8,7 @@ tags:
   - minetest
 ---
 Hi guys. Welcome to Liberepen, today we want to know more about Minetest!
-So, let's get start!
+so, let's get start!
 <h2>What is Minetest?</h2>
 Minetest is a free and opensource game engine. But it's also a game. In the [website of minetest](https://www.minetest.net/) we can see this discribtion:
 

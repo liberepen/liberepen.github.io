@@ -8,6 +8,7 @@ tags:
   - minetest
 ---
 Hi guys. It's Muhammad Rajabi and today we want to know more about Minetest!
+
 So, let's get start!
 <h2>What is Minetest?</h2>
 Minetest is a free and opensource game engine. But it's also a game. In the [website of minetest](https://www.minetest.net/) we can see this discribtion:
@@ -19,7 +20,7 @@ So we can say Minetest is also a cross platform game engine and game. Is not it 
 
 Let's Continue. In this post i want to talk about Minetest game(not game engine and game making). Minetest is a [Sandbox game](https://en.wikipedia.org/wiki/Sandbox_game) like Minecraft. but its better and free!
 
-You can make yor favorite House, upgrade your tools and survive. you can make your desired minetest! how? with modes. Minetest game a free database for mods. Installing mods in Minetest is easier than you think. 
+You can make your favorite House, upgrade your tools and survive. you can make your desired minetest! how? with modes. Minetest game a free database for mods. Installing mods in Minetest is easier than you think. 
 
 Minetest is very Lightweight. It's just about 30 or 40 MG! i was a Minecraft player in the past but when i met Minetest, i left Minecraft. 
 Minetest have many online and free servers! so you can easily play Minetest with your friends.
